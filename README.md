@@ -4,7 +4,7 @@ This is a simple solidity program that is used to mint and burn the tokens for a
 
 ## Description
 
-This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions burn and mint that are used to mint and destroy the supply of tokens for the particular address affects these actions will also affect the total supply. This program is also using mapping to map the adresses to balances. Mapping is used to store the key value pairs in solidity.
+This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract has two functions burn and mint that are used to mint and destroy the supply of tokens for the particular address, these actions will also affect the total supply. This program is also using mapping to map the adresses to balances. Mapping is used to store the key value pairs in solidity.
 
 ## Getting Started
 
